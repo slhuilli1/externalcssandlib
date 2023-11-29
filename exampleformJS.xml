@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <field name="external-js" type="text" label="Lien RELATIF local OU URL absolue vers la librairie JS"  />
+	<field name="texte-libre-js" type="text" default="" label="Note" description="Vous pouvez annoter le but, rôle, utilisation... de cette bibliothèque" />
+
+</form>
